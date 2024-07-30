@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://github.com/RobsonSumauma/RobsonSumauma/blob/main/media/Call center-amico.png" height="400" width="1500" align="center">
+<img src="https://github.com/RobsonSumauma/RobsonSumauma/blob/main/Call%20center-amico.png" height="750" width="850" align="center">
 
    ---
    ## ⭐️ Hard Skills
